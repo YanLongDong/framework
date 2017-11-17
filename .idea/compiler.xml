@@ -9,6 +9,7 @@
         <module name="codis" />
         <module name="es" />
         <module name="jms" />
+        <module name="kafka" />
         <module name="rocketmq" />
         <module name="threadpool" />
         <module name="zookeeper" />
@@ -19,6 +20,7 @@
       <module name="es" target="1.5" />
       <module name="framework" target="1.5" />
       <module name="jms" target="1.5" />
+      <module name="kafka" target="1.5" />
       <module name="rocketmq" target="1.5" />
       <module name="threadpool" target="1.5" />
       <module name="zookeeper" target="1.5" />
