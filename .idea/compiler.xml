@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="codis" />
+        <module name="es" />
+        <module name="jms" />
+        <module name="rocketmq" />
+        <module name="threadpool" />
+        <module name="zookeeper" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="codis" target="1.5" />
+      <module name="es" target="1.5" />
+      <module name="framework" target="1.5" />
+      <module name="jms" target="1.5" />
+      <module name="rocketmq" target="1.5" />
+      <module name="threadpool" target="1.5" />
+      <module name="zookeeper" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
